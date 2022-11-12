@@ -2,7 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=berkayefecanyasar&show_icons=true">
 
 # Hi there! My name is Berkay 👋
-I am an engineering who wants to improve himself for the better one🧑‍💻
+I am an engineer who wants to improve himself for the better one🧑‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayefecanyasar" alt="berkayefecanyasar" /> </p>
 
