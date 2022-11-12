@@ -6,7 +6,7 @@ I am an engineer who wants to improve himself for the better one🧑‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayefecanyasar" alt="berkayefecanyasar" /> </p>
 
-[![](https://img.shields.io/twitter/follow/_BerkayYasar?style=social)](https://www.twitter.com/_BerkayYasar)
+
 [![](https://img.shields.io/github/followers/berkayefecanyasar?style=social)](https://www.github.com/berkayefecanyasar)
 
 
